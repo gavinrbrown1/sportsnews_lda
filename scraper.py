@@ -13,9 +13,9 @@ successes = 0   # requests not redirected
 
 start = time()
 
-file_index = open('file_index.txt', 'w')
+file_index = open('data/file_index.txt', 'w')
 
-while request_index < 1000:
+while request_index < 100000:
     request_index += 1
 
     req_url = base_url + str(page_index)
@@ -25,7 +25,7 @@ while request_index < 1000:
         sleep(1)
 
         # tracker for my convinience on longer runs
-        if request_index % 10 == 0:
+        if request_index % 100 == 0:
             print(request_index)
 
         # check for redirects
@@ -36,7 +36,7 @@ while request_index < 1000:
             soup = BeautifulSoup(reply, 'html.parser')
             article = soup.find('div', class_='article_body cf')
 
-            file = open("br_html_" + str(page_index) + ".txt", "w")
+            file = open("data/br_html_" + str(page_index) + ".txt", "w")
 
             file_index.write('br_html_' + str(page_index) + '.txt' + ' ')
 
