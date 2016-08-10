@@ -1,0 +1,127 @@
+In Saturday's 7-1 loss to the San Francisco Giants, Washington Nationals right fielder Bryce Harper struck out three times and exited after the sixth inning with a stiff neck, per Chelsea Janes of the Washington Post.If that isn't a metaphor for Harper's 2016 season, nothing is.The first-place Nats have plenty to smile about. Second baseman Daniel Murphy is on pace to win a batting title, and breakout catcher Wilson Ramos is hot on his heels. Speedy rookie Trea Turner is lighting up the basepaths. The starting rotation sports the second-best ERA (3.31) in baseball.But Harper, the reigning National League MVP, has been largely absent from the party.At the end of April, Harper had nine home runs and a 1.121 OPS. In the three-plus months since, he's managed 11 homers and watched his OPS tumble to .812.He's been especially anemic since the All-Star break, posting a .134/.259/.209 slash line with three extra-base hits and 20 strikeouts in 19 games.That's wince-inducing. And it raises an uncomfortable yet unavoidable question: Was Harper's MVP campaign an anomaly?
+
+
+
+
+                Norm Hall/Getty Images
+            
+
+
+            
+            Harper has just three extra-base hits in 19 games since the All-Star break.
+        
+Early this season, the story was all about teams not pitching to Harper. By the end of May, he'd drawn 13 intentional walks, two shy of his career high. On May 8, the Chicago Cubs walked him six times in a single game, tying the all-time mark.
+
+Will Bryce Harper bust out of his slump in 2016?
+
+
+
+
+Yes, he'll hit like an MVP again.
+
+
+
+Yes, but he won't replicate 2015.
+
+
+
+No.
+
+Submit Vote
+vote to see results
+
+
+
+
+
+
+
+
+Will Bryce Harper bust out of his slump in 2016?
+
+Yes, he'll hit like an MVP again.
+
+38.2%
+
+
+
+
+Yes, but he won't replicate 2015.
+
+48.2%
+
+
+
+
+No.
+
+13.6%
+
+
+
+Total votes: 6,138
+
+
+
+        if (!BR.PollData) {
+          BR.PollData = {};
+        }
+
+        if (!BR.PollData[364842]) {
+          BR.PollData[364842] = {
+            id: 364842,
+            question: "Will Bryce Harper bust out of his slump in 2016?",
+            choices: {"choice1":{"count":2960,"choice":"Yes, but he won't replicate 2015."},"choice7":{"count":0,"choice":""},"choice2":{"count":836,"choice":"No."},"choice8":{"count":0,"choice":""},"choice3":{"count":0,"choice":""},"choice9":{"count":0,"choice":""},"choice4":{"count":0,"choice":""},"choice5":{"count":0,"choice":""},"choice0":{"count":2342,"choice":"Yes, he'll hit like an MVP again."},"choice6":{"count":0,"choice":""}},
+            sidebar: false
+          };
+        }
+
+        if (BR.poll) {
+          BR.poll.showResults(364842, false);
+        }
+      
+But as Harper's production cratered, the free passes came less frequently. He's received only three intentional walks since June 1, and his 18.3 walk percentage for the season is actually down slightly from last year's mark of 19 percent.Maybe the starkest disparity between Harper's 2015 and 2016 stat sheets is his batting average on balls in play, which has plummeted from .369 to .237.Before you chalk that up to bad luck, consider that Harper's hard-contact rate has fallen from 40.9 percent in 2015 to 32.2 percent, while his soft-contact rate has climbed from 11.9 percent to 22.0 percent.Lately, pitchers have been exploiting him with fastballs, as Sporting News' Jesse Spector outlined:According to data from Brooks Baseball, pitchers are particularly focusing on that fastball weakness lately, with Harper seeing “hard” stuff 63.76 percent of the time in July—the highest rate thrown to him in a full month since April 2014. Harper’s average exit velocities on those pitches dropped to an average of 89.1 mph in July, only the second time in 10 months of tracking that he’s been below 90.On July 10, Harper insisted his approach isn't broken."This is going to sound bad and people are going to look at it and say it sounds bad, but I'm really good at the plate," he said, per Janes. "Of course guys have holes in their swings, but I don't feel like I do. When I go up to the plate, I don't want to think I have a hole or anything like that. I think I can hit any pitch."Confidence has been Harper's calling card since he burst into the big leagues in 2012 as a brash 19-year-old wunderkind and claimed NL Rookie of the Year honors. So Nats fans should be heartened to hear he's not throwing in the towel.
+
+
+
+
+                Jennifer Stewart/Getty Images
+            
+
+
+            
+            Despite his struggles, Harper insisted he's "good at the plate."
+        
+It's easy to forget Harper is just 23 years old, an age when plenty of talented players are working out the kinks in the minor leagues. For perspective, Harper is only eight months older than Turner, who's logged a scant 48 games in The Show.In other words, don't bet against Harper getting hot again. He's simply too gifted for this current feckless stretch to continue unabated.On the other hand, if you thought 2015 was the new normal, you may want to adjust your expectations. The reality is likely somewhere in between this protracted soft-contact slump and the guy who blew away his career bests in virtually every offensive category and posted the highest single-season OPS+ (195) of any active player.Here, let's stack Harper's historic 2015 next to his numbers so far this season and his career averages:
+
+Harper's 2015: An Outlier? 
+Year
+AVG.
+OPS+
+SLG.
+WAR
+
+
+2015
+.330
+197
+.649
+9.9
+
+
+2016
+.233
+115
+.438
+1.5
+
+
+Career averages
+.280
+139
+.505
+4.26
+
+
+Stats courtesy of Baseball-Reference.com
+Stats courtesy of Baseball-Reference.comA return to those career averages would make Harper an exceedingly valuable player and would boost the Nats' chances considerably. It's also probably closest to the real Harper.The bottom line is this: There will be ups; there will be downs. There will be growing pains, even after everything he's accomplished. In fact, for all his bravado, Harper may be wrestling with the weight of expectations, pressing to meet the impossibly high standard he set."He tries to live up to all this," Nationals hitting coach Rick Schu said, per Janes. "I think you just have to get back down to being a hitter."Harper may never again do what he did last season. But he can—and almost surely will—get back to being a dangerous, productive hitter.So far, though, 2016 has been a serious, unquestionable pain in the neck.        All statistics current as of Aug. 7 and courtesy of Baseball-Reference.com, MLB.com and FanGraphs unless otherwise noted.

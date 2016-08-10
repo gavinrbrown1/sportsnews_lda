@@ -1,0 +1,153 @@
+Jose Mourinho's first Premier League game in charge of Manchester United and Pep Guardiola's debut in England's top flight with Manchester City are the highlights of the first slate of games for the new season.Both are intense rivals and have each spent big this summer overhauling squads that are now expected to be serious title contenders.Speaking of the title, champions Leicester City may have been weakened by the loss of midfield destroyer N'Golo Kante, but they've retained striker Jamie Vardy and made some smart new signings. They should still be favourites for a tricky trip to newly promoted Hull City.Here are the fixtures for the opening week of the season, along with predictions:
+
+EPL 2016/17 Fixtures and Predictions: Week 1 
+Date
+Time
+Match
+Prediction
+
+
+Saturday, August 13
+12:30 p.m. / 7:30 a.m.
+Hull City vs. Leicester City
+1-2
+
+
+Saturday, August 13
+3 p.m. / 10 a.m.
+Burnley vs. Swansea City
+1-1
+
+
+Saturday, August 13
+3 p.m. / 10 a.m.
+Crystal Palace vs. West Bromwich Albion
+0-0
+
+
+Saturday, August 13
+3 p.m. / 10 a.m.
+Everton vs. Tottenham Hotspur
+2-2
+
+
+Saturday, August 13
+3 p.m. / 10 a.m.
+Middlesbrough vs. Stoke City
+1-1
+
+
+Saturday, August 13
+3 p.m. / 10 a.m.
+Southampton vs. Watford
+0-1
+
+
+Saturday, August 13
+5:30 p.m. / 12:30 p.m.
+Manchester City vs. Sunderland
+3-1
+
+
+Sunday, August 14
+1:30 p.m. / 8:30 a.m.
+Bournemouth vs. Manchester United
+1-2
+
+
+Sunday, August 14
+4 p.m. / 11 a.m.
+Arsenal vs. Liverpool
+2-1
+
+
+Monday, August 15
+8 p.m. / 3 p.m.
+Chelsea vs. West Ham United
+2-0
+
+
+Sky Sports
+Sky SportsGuardiola won't be the only manager under the spotlight for this match. It will also mark David Moyes' return to the top flight following a two-season exile after his disastrous spell in charge of City's neighbours, United.Moyes has always been a pragmatic manager, but he'll find it tough to field a team compact enough to resist City's burgeoning arsenal of goalscoring forwards.Leroy Sane and Nolito have been added this summer to provide goals and creativity in support of centre-forward Sergio Aguero and winger Raheem Sterling, while Gabriel Jesus will link up with the squad in January.
+
+
+
+
+
+Share
+
+
+
+
+
+
+Tweet
+
+
+
+
+
+
+
+
+
+Marrying their pace and intelligent movement with the intricate passing Guardiola preaches is sure to make City a lethal attacking force this season.In fact, the effect of the new manager's aura, personality and philosophy is something City are counting on this season, according to James Robson of the Manchester Evening News: "Guardiola has star appeal—and after three years of Pellegrini’s dour persona, City insiders believe he is exactly what they need in this latest stage of their evolution under owner Sheikh Mansour."A more committed and retooled City squad can show their title credentials early with a resounding win in front of their home fans. Seeing how quickly the players have adapted to the Guardiola way will be one of the most intriguing things about the opening weekend.Of course, Mourinho is being counted on to have a similar impact at United. He's added smartly to key areas of the squad this summer, albeit at a major cost.Zlatan Ibrahimovic and Henrikh Mkhitaryan will add an extra dimension to a forward line that was pedestrian for most of the 2015/16 season. Meanwhile, fellow new signing Eric Bailly should quickly become the mainstay of the back four.Yet, while the scale of their spending is naturally different, Bournemouth haven't been idle in the market. They've signed Jordon Ibe and Brad Smith from Liverpool, while also acquiring Fulham's classy playmaker Emerson Hyndman.Still, it's United's new boys who will command most of the attention, particularly Ibrahimovic.
+
+Will Ibrahimovic thrive or flop in the EPL?
+
+
+
+
+Thrive
+
+
+
+Flop
+
+Submit Vote
+vote to see results
+
+
+
+
+
+
+
+
+Will Ibrahimovic thrive or flop in the EPL?
+
+Thrive
+
+83.7%
+
+
+
+
+Flop
+
+16.3%
+
+
+
+Total votes: 1,074
+
+
+
+        if (!BR.PollData) {
+          BR.PollData = {};
+        }
+
+        if (!BR.PollData[364839]) {
+          BR.PollData[364839] = {
+            id: 364839,
+            question: "Will Ibrahimovic thrive or flop in the EPL?",
+            choices: {"choice1":{"count":175,"choice":"Flop"},"choice7":{"count":0,"choice":""},"choice2":{"count":0,"choice":""},"choice8":{"count":0,"choice":""},"choice3":{"count":0,"choice":""},"choice9":{"count":0,"choice":""},"choice4":{"count":0,"choice":""},"choice5":{"count":0,"choice":""},"choice0":{"count":899,"choice":"Thrive"},"choice6":{"count":0,"choice":""}},
+            sidebar: false
+          };
+        }
+
+        if (BR.poll) {
+          BR.poll.showResults(364839, false);
+        }
+      
+Big things are expected from the 34-year-old Swedish striker, but Arsenal boss Arsene Wenger has added a note of caution, despite his belief in the player's ability, per Paul Vinnell of Sky Sports: "Going for him is his class, his talent, his desire to do well. What goes against him is that he is not the youngest player anymore, so you are questioned about that in every game."United need a fast start after all the pre-season hype, but it won't be easy against a Bournemouth side managed ably by Eddie Howe and capable of producing some quality attacking football.All eyes will be on the Manchester clubs for most of the new season given their changes this summer. Both have great chances to put down markers in what's sure to be one of the more competitive title races in years.
