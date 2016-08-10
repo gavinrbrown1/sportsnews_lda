@@ -15,7 +15,7 @@ start = time()
 
 file_index = open('file_index.txt', 'w')
 
-while request_index < 50:
+while request_index < 1000:
     request_index += 1
 
     req_url = base_url + str(page_index)
@@ -38,7 +38,7 @@ while request_index < 50:
 
             file = open("br_html_" + str(page_index) + ".txt", "w")
 
-            file_index.write('br_html_' + str(page_index) + '.txt' + '\n')
+            file_index.write('br_html_' + str(page_index) + '.txt' + ' ')
 
             paragraphs = article.find_all('p')
             for graph in paragraphs:
